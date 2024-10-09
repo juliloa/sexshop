@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDbContext>(Options =>
-Options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+    Options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
 builder.Services.AddIdentity<Users, IdentityRole>(options =>
 {
@@ -26,7 +26,13 @@ builder.Services.AddIdentity<Users, IdentityRole>(options =>
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
 
-
+// Configurar la autenticación por cookies
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = "/Account/Login"; // Ruta de inicio de sesión
+    options.LogoutPath = "/Account/Logout"; // Ruta de cierre de sesión
+    options.AccessDeniedPath = "/Account/AccessDenied"; // Ruta de acceso denegado
+});
 
 var app = builder.Build();
 
@@ -34,7 +40,6 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -43,10 +48,11 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication(); // Agregar este middleware para la autenticación
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Account}/{action=Alerta}/{id?}");
 
 app.Run();

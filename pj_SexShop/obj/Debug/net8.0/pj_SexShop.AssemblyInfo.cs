@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pj_SexShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+172e1eefc82629a2088a74ec8b9265a05152dc96")]
 [assembly: System.Reflection.AssemblyProductAttribute("pj_SexShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pj_SexShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

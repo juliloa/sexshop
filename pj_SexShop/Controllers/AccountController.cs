@@ -16,7 +16,11 @@ namespace pj_SexShop.Controllers
             this.signInManager = signInManager;
             this.userManager = userManager;
         }
-
+        
+        public IActionResult Alerta()
+        {
+            return View();
+        }
         public IActionResult Login()
         {
             return View();

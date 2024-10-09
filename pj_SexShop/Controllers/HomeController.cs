@@ -1,9 +1,11 @@
+using Microsoft.AspNetCore.Authorization; // Importar el espacio de nombres necesario
 using Microsoft.AspNetCore.Mvc;
 using pj_SexShop.Models;
 using System.Diagnostics;
 
 namespace pj_SexShop.Controllers
 {
+    [Authorize] // Restringir acceso a usuarios autenticados
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

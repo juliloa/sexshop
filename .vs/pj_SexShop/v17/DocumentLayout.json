@@ -1,13 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\pj_SexShop\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\sexshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\dell\\source\\repos\\pj_sexshop\\pj_sexshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\account\\alerta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\account\\alerta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\dell\\source\\repos\\pj_sexshop\\pj_sexshop\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|c:\\users\\gabri\\desktop\\sexshop\\pj_sexshop\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A63073A8-1148-4C8D-8747-9F602BC2406B}|pj_SexShop\\pj_SexShop.csproj|solutionrelative:pj_sexshop\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -18,37 +70,196 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:21:27.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "pj_SexShop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "pj_SexShop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T22:21:44.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:16:58.025Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_SexShop\\pj_SexShop\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "pj_SexShop\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_SexShop\\pj_SexShop\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "pj_SexShop\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Title": "Alerta.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\Alerta.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\Account\\Alerta.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\Alerta.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\Account\\Alerta.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T17:01:25.858Z",
+              "WhenOpened": "2024-10-08T21:09:51.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "pj_SexShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "pj_SexShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:10:55.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "pj_SexShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "pj_SexShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:35:15.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Program.cs",
+              "RelativeDocumentMoniker": "pj_SexShop\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Program.cs",
+              "RelativeToolTip": "pj_SexShop\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:09:05.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:30:29.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:30:27.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:32:29.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:53:12.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:16:48.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:12:35.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "pj_SexShop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "pj_SexShop\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T17:01:25.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Account.css",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_SexShop\\pj_SexShop\\wwwroot\\css\\Account.css",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\wwwroot\\css\\Account.css",
               "RelativeDocumentMoniker": "pj_SexShop\\wwwroot\\css\\Account.css",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_SexShop\\pj_SexShop\\wwwroot\\css\\Account.css",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\sexshop\\pj_SexShop\\wwwroot\\css\\Account.css",
               "RelativeToolTip": "pj_SexShop\\wwwroot\\css\\Account.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-08T16:39:44.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T16:39:44.516Z"
             }
           ]
         }
